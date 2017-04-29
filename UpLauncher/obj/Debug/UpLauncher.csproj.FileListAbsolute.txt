@@ -1,0 +1,9 @@
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\bin\Debug\UpLauncher.exe.config
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\bin\Debug\UpLauncher.exe
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\bin\Debug\UpLauncher.pdb
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Debug\UpLauncher.csprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Debug\UpLauncher.main.resources
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Debug\UpLauncher.Properties.Resources.resources
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Debug\UpLauncher.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Debug\UpLauncher.exe
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Debug\UpLauncher.pdb

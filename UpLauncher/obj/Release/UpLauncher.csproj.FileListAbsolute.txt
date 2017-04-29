@@ -1,0 +1,18 @@
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\bin\Release\UpLauncher.exe.config
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\bin\Release\UpLauncher.exe
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\bin\Release\UpLauncher.pdb
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Release\UpLauncher.main.resources
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Release\UpLauncher.Properties.Resources.resources
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Release\UpLauncher.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Release\UpLauncher.exe
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher\UpLauncher\obj\Release\UpLauncher.pdb
+C:\Users\raphael\Documents\Visual Studio 2015\Projects\UpLauncher\UpLauncher\obj\Release\UpLauncher.csprojResolveAssemblyReference.cache
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\bin\Release\UpLauncher.exe.config
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\obj\Release\UpLauncher.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\obj\Release\UpLauncher.pdb
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\bin\Release\UpLauncher.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\bin\Release\UpLauncher.pdb
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\obj\Release\UpLauncher.csprojResolveAssemblyReference.cache
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\obj\Release\UpLauncher.main.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\obj\Release\UpLauncher.Properties.Resources.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher\UpLauncher\obj\Release\UpLauncher.csproj.GenerateResource.Cache
